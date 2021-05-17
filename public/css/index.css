@@ -1,0 +1,78 @@
+.msg-sender{
+    background-color: blacksmoke;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    display: grid;
+    justify-content: center;
+    border-radius: 10px;
+    color: black;
+    min-width: 250px;
+}
+.title{
+    text-align: center;
+}
+.name-field{
+    display: grid;
+    justify-items: center;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color: blacksmoke;
+    color: black;
+    height: auto;
+    margin-bottom: 20px;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-radius: 10px;
+    min-width: 250px;
+}
+
+#viestikenttä{
+    background-color: blacksmoke;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 10px;
+    height: 500px;
+    overflow: scroll;
+    min-width: 250px;
+}
+
+#viesti{
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border: 0;
+    margin: 5px;
+    padding: 5px;
+    max-width: 1000px;
+    text-align: center;
+    font-size: large;
+}
+#event{
+    background-color: rgba(0, 0, 0, 0);
+    color: gray;
+    border: 0;
+    margin: 5px;
+    padding: 5px;
+    max-width: 1000px;
+    text-align: center;
+    font-size: large;
+}
+
+#count-field{
+    text-align: center;
+    color: gray;
+}
+
+#nimimerkki{
+    text-align: center;
+    color: black;
+}
+
+#username{
+    font-weight: bold;
+}
+
+h1{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: lighter;
+}
